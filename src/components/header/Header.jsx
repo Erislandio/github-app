@@ -14,6 +14,9 @@ class Header extends Component {
                     <h1 className="name-aplication">
                         GitHub Search
                     </h1>
+                    <h1 className="add" onClick={event => this.props.add()}>
+                        +
+                    </h1>
                 </div>
             </div>
         );

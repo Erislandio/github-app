@@ -15,3 +15,8 @@ h1.name-aplication{
     align-items: center;
     justify-content: space-between;
 }
+
+h1.add {
+    color: #1abc9c;
+    font-weight: bold;
+}
